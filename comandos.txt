@@ -1,0 +1,6 @@
+serverrun dev mobil
+-npm run android
+-npm run ios
+
+serverrun dev web
+-npm run web
